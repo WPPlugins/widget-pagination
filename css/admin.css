@@ -1,0 +1,26 @@
+/*
+Plugin Name: Widget Paginator
+Plugin URI: http://wgpag.jana-sieber.de/
+Description: Pagination for Wordpress Widgets
+Author: Jana Sieber and Lars Uebernickel
+Author URI: http://wordpress.org/support/profile/janasieber
+License: GPL2
+*/
+
+#wgpag-options .metabox-holder p, #wgpag-options .metabox-holder h4 { padding: 0 10px; }
+
+#wgpag-options .postbox h3 { cursor: default; }
+
+#wgpag-options .form-table { clear: none; width: auto; margin-top: 0; }
+
+#wgpag-options .form-table th { width: 120px; white-space: nowrap; }
+
+#wgpag-options .form-table td { vertical-align: top; }
+
+#wgpag-options form label {}
+
+#wgpag-options form input[type="text"] { text-align: center; }
+
+#wgpag-options .success { color: green; font-weight: bold; }
+
+#wgpag-options .hint { color: gray; font-size: 0.9em; }
